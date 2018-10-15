@@ -1,6 +1,8 @@
 # Sample-blog-page-HTML-CSS
 Simple 1 pg- blog template in  HTML/CSS3
 
+https://codepen.io/csinghofen/pen/qJVjxw blog post link
+
 ---
 ![image](https://user-images.githubusercontent.com/23155302/39666425-7d8ee4d6-5071-11e8-9f6e-825a8a2387ca.png)
 
